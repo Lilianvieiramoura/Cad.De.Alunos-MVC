@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mvc
+build_property.RootNamespace = mvc
+build_property.ProjectDir = /home/lilian/asp.net-na-pratica/mvc/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/lilian/asp.net-na-pratica/mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Alunos/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0NhZGFzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Alunos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0VkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Alunos/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0V4Y2x1aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lilian/asp.net-na-pratica/mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bq85iswkz2
